@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 })
 
 function loadLandmarks() {
-	let 'https://api.sheety.co/868a53474b5dfd812cbccdcd9f3a5736/googleMaps/landmarks';
+	let url = 'https://api.sheety.co/868a53474b5dfd812cbccdcd9f3a5736/googleMaps/landmarks';
 	fetch(url)
 	.then((response) => response.json())
 	.then(json => {
