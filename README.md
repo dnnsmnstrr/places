@@ -4,7 +4,7 @@ Take a look at how to create an embedded Google Maps app from a spreadsheet.
 ## How to use
 1. Open main.js in a text editor and locate the Sheety URL
 2. Replace the demo URL with your own Sheety URL
-3. Replace the Google API key with your own. Follow [Google's guide on how to obtain a key](https://developers.google.com/maps/documentation/embed/get-started). 
+3. Replace the Google API key with your own. Follow [Google's guide on how to obtain a key](https://developers.google.com/maps/documentation/embed/get-started) (Places API needs to be activated). 
 3. Customise as you please!
 4. Voila! A Google Maps embed powered by a spreadsheet
 
